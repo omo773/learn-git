@@ -14,7 +14,7 @@ local WheelchairConfig = {
     -- น้ำหนักรถ (ส่งผลต่อการไหลลงเขา)
      WheelchairMass = 100 ,
 
-
+     a = 20
 
 
 }
