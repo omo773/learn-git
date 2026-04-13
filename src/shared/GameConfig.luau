@@ -17,7 +17,7 @@ local WheelchairConfig = {
      a = 20,
 
      b =200,
-
+     c = 50,
 
 }
 
